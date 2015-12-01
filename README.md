@@ -1,2 +1,2 @@
-# From_Zero_to_Web_Hero
+# From Zero to Web Hero
 A journal of JavaScript reflections.
